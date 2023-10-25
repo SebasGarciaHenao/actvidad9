@@ -1,0 +1,9 @@
+Estacion: Cuajimalpa
+Latitud: 19.360830
+Longitud: -99.296890
+Fecha: 04/05/2023
+Hora: 22:30
+Temperatura: 22.5
+Humedad: 64.8
+Presion: 1013.2
+Viento: 5.2,ENE

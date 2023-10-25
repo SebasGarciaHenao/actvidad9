@@ -1,0 +1,9 @@
+Estacion: Coyoacon
+Latitud: 19.3462
+Longitud: -99.1626
+Fecha: 04/05/2023
+Hora: 15:00
+Temperatura: 25.9
+Humedad: 62
+Presion: 1012.1
+Viento: 10.2,S

@@ -1,0 +1,9 @@
+Estacion: Santa Fe
+Latitud: 19.3615
+Longitud: -99.2736
+Fecha: 04/05/2023
+Hora: 15:00
+Temperatura: 25.6
+Humedad: 63
+Presion: 1012.6
+Viento: 7.6,NW

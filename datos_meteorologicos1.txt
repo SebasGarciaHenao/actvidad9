@@ -1,0 +1,9 @@
+Estacion: Aeropuerto Internacional
+Latitud: 19.4362
+Longitud: -99.0728
+Fecha: 04/05/2023
+Hora: 15:00
+Temperatura: 28.3
+Humedad: 56
+Presion: 1012.3
+Viento: 14.5,ESE

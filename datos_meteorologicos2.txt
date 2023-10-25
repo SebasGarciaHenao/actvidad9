@@ -1,0 +1,9 @@
+Estacion: Ciudad Universitaria
+Latitud: 19.3189
+Longitud: -99.1821
+Fecha: 04/05/2023
+Hora: 15:00
+Temperatura: 26.2
+Humedad: 61
+Presion: 1012.0
+Viento: 6.2,SW
